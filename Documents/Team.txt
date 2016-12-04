@@ -1,0 +1,6 @@
+The project will contain these following fields
+- Concept art (Art Direction as well)
+- Programming/ Scripting 
+- Game design
+- Animation
+- 3D Models and Rigging/ Skinning
